@@ -5,7 +5,7 @@ A command-line tool for Binance API developed based on the Go language, supporti
 
 ### Installation
 ```shell
-curl -sSL https://raw.githubusercontent.com/UnipayFI/binance-cli/refs/heads/main/download.sh | bash
+curl -sSL https://raw.githubusercontent.com/JiangNaa/binance-cli/refs/heads/main/download.sh | bash
 ```
 
 ### Environment variables
@@ -81,4 +81,4 @@ Available Commands:
 **[View detailed documentation](docs/portfolio_margin.md)**
 
 ## License
-UnipayFI/binance-cli is released under the [MIT License](https://opensource.org/licenses/MIT).
+JiangNaa/binance-cli is released under the [MIT License](https://opensource.org/licenses/MIT).
